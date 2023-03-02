@@ -21,5 +21,4 @@ function exibeChuteNaTela(chute) {
     `
 }
 
-// manter o reconhecimento de voz ativo
 recognition.addEventListener('end', () => recognition.start());
