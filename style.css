@@ -28,6 +28,10 @@ h1 {
     font-weight: 400;
 }
 
+h2 {
+    font-size: 3em;
+}
+
 h3 {
     font-size: 2em;
     margin-block: 20px 40px;
