@@ -5,7 +5,7 @@ Repositório com projeto Número Secreto desenvolvido durante o curso JavaScript
 ## 📁 Detalhes do projeto
 
 <div align="center">
-	<img width=600px src="./img/">
+	<img width=600px src="./img/git-banner.jpg">
 </div><br>
 
 O Número Secreto é um jogo online, onde um número é sorteado aleatoriamente e o usuário deve tentar descobrir que número é este.
@@ -31,6 +31,10 @@ Para o reconhecimento de voz foi usada a Web Speech API.
 Após acessar o projeto basta falar o seu chute no microfone do seu dispositivo.
 
 Caso não acerte o número de primeira, algumas dicas te ajudarão a seguir no jogo.
+
+<div align="center">
+	<img width=600px src="./img/git-animation.gif">
+</div><br>
 
 Alguns navegadores podem solicitar uma permissão para ativar o microfone do seu dispositivo.
 
