@@ -5,7 +5,7 @@ Repositório com projeto Número Secreto desenvolvido durante o curso JavaScript
 ## 📁 Detalhes do projeto
 
 <div align="center">
-	<img width=600px src="./img/git-banner.jpg">
+	<img width=600px src="./img/git-banner.png">
 </div><br>
 
 O Número Secreto é um jogo online, onde um número é sorteado aleatoriamente e o usuário deve tentar descobrir que número é este.
